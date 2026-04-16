@@ -1,10 +1,10 @@
 # 2026-6-2-Grupo_1--S.A.F.E--
-(sistema de automatizacion de filtracion de empleados) 
+Sistema de Automatizacion de Filtracion de Empleados
 
-integrantes del proyecto:
+Integrantes del proyecto:
 
-Scrum Master: santiago vigo
+Scrum Master: Vigo Santiago
 
-Product Owner: leonel Pedraza
+Product Owner: Leonel Pedraza
 
 Equipo de trabajo:  Paladea Ian,  Cabral Maximo,  Gonzalez Morena
