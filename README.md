@@ -9,3 +9,5 @@ Scrum Master: Vigo Santiago
 Product Owner: Leonel Pedraza
 
 Equipo de trabajo:  Paladea Ian,  Cabral Maximo,  Gonzalez Morena
+
+Una necesidad para empresas que podría agilizar los tiempos y gastos para las empresas en contratar personal, armar un sistema de filtración, para poder filtrar personas que postulan para un puesto de trabajo a este proyecto le pusimos SAFE(Sistema Automatizado de Filtración de Empleados)
